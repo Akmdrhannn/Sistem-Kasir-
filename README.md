@@ -4,4 +4,6 @@ Dapat melihat pendapatan , stok barang, login, dan log out
 
 -- Di buat menggunakan CSS,BOOTSTRAP,SQL DAN PHP --
 
---- Buka web dimulai dari login.php ---
+--- Buka web bisa dimulai dari login.php / index.php ---
+
+*terlempar ke login juga jika belum ada akun
